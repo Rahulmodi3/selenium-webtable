@@ -1,5 +1,5 @@
 # selenium-webtable
-Handel Web-tables in selenium python .
+Handle html web-tables in selenium python.
 
 
 ## Installation
